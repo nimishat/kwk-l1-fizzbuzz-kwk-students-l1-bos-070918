@@ -12,4 +12,4 @@ elsif int % 5 == 0
   end 
 end
 
-puts fizzbuzz(9)
+puts fizzbuzz(10)
